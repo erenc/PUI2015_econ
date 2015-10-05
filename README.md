@@ -11,3 +11,8 @@ https://cloud.githubusercontent.com/assets/14367157/9982716/dc7eed18-5fb2-11e5-9
 
 https://cloud.githubusercontent.com/assets/14367157/9982717/df056dfa-5fb2-11e5-968f-12bc173283f4.JPG
  
+Question #2
+
+First I generate 100 sample for each distribution. I add 2 more distribution. 
+After that plot the sample agins the sample size.
+Then plot the distributions of sample means.
