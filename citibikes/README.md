@@ -1,5 +1,5 @@
 My contribution to this work mainly on the calculating the
-distance of trip between the stations and reverse geocoding part(Google API) and the main code parts. I also contribute to the hypothesis testing parts. 
+distance of trip between the stations and reverse geocoding part(Google API) and the main code parts. I also contribute to the idea/hypothesis testing parts. 
 
 The method is using "geopy" library using the vincenty function. The reason of using the Vincenty calculation that 
 gives us a more accurate result than the other option great results.
