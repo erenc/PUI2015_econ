@@ -1,0 +1,50 @@
+excellent comments 10/10
+
+NOTES ON YOUR PLOT
+=================
+
+
+the 3d obstructs the structure, but the structure is symmetric so this is justified
+
+the color is redundant with the z axis, but it helos read the y value in the 3D structure
+
+the z axis label is ambiguous: spell the function out
+
+the axis labels are too small to be readable
+
+
+
+
+NOTES ON THE PLOTS YOU REVIEWED
+==================================
+
+jpmora
+======
+
+
+nice location of the legends in two different spots,
+
+nice proportions, appropriate to display the data without getting distracted by empty space
+
+labels too small
+
+not robust to color blindness
+
+
+lanimcl
+=======
+
+the points are green but the legend is blue.
+
+it is not clear what the legend means: it probbaly means the size corresponds to the duration, but this is just an educated guess as the nothing in the legend refers to size
+
+the color is unexplained and appears to be redundant with the size
+
+tick labels are way too small
+
+large values on teh y axis should be substituted by a compact motation (eg using units of 1000 trips)
+
+DQOfficial 
+========== 
+the plot is largely empty: rmove empty space at botto and plot  the grid should extend for the full extent of the plot  
+all in all it is a good simple plot  colors are confused by color-blind viewers
